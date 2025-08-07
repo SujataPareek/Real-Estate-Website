@@ -58,7 +58,7 @@ A full-featured **Real Estate Management Website** built as a **minor project** 
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/your-username/real-estate-website.git
+   git clone https://github.com/SujataPareek/Real-Estate-Website.git
 
 2. **Set up local server (e.g., XAMPP or WAMP)**
 
