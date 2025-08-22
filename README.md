@@ -73,9 +73,7 @@ A full-featured **Real Estate Management Website** built as a **minor project** 
  http://localhost/real-estate-website/
  ### Authors
  - Sujata Pareek
- - Binal Setia
- - Ayushi Dahiya
- - Shubhangi Mathur
+
 
 ### Note
 This project was created for academic purposes and showcases basic CRUD operations, authentication, and dashboard development using PHP and MySQL.
